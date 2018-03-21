@@ -4,7 +4,7 @@ authors:
 
 1- Hazem Ashraf
 
-2- Mina Magdy
+2- Mina Yousry
 
 3- Hager Magdy
 
