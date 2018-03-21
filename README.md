@@ -1,5 +1,6 @@
 # Tripiano
 
+
 authors:
 
 1- Hazem Ashraf
@@ -7,6 +8,14 @@ authors:
 2- Mina Yousry
 
 3- Hager Magdy
+
+project Info:
+
+tripiano is a mobile app to manage your dailly trips
+minSDKVirsion 17
+
+targetSDKVirsion 26
+
 
 Project Features:
 
