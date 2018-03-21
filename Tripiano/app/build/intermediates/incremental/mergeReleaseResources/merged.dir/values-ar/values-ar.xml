@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Alarm">Alarm</string>
+    <string name="Alredyhaveaccount">تمتلك بالفعل حساب؟</string>
+    <string name="Register">سجل</string>
+    <string name="SaveFireBase">SaveFireBase</string>
+    <string name="TestAlarm">TestAlarm</string>
+    <string name="TestDataBase">TestDB</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"التنقل إلى الشاشة الرئيسية"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"خيارات إضافية"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تم"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"تشغيل"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"طلب البحث"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"بحث"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"البحث الصوتي"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"مشاركة مع <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="add">ادخل رحلة</string>
+    <string name="addTrip">اضف رحلة</string>
+    <string name="add_trip">اضف رحلة</string>
+    <string name="app_name">تريبيانو</string>
+    <string name="auth_failed">فشل التسجيل ,ادخل ايميل اخر او قم بالتسجيل</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="btn_cancel_trip">Cancel</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_detail">التفاصيل</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_login">دخول</string>
+    <string name="btn_notes_trip">Notes</string>
+    <string name="btn_remove">امسح</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_sign_out">الخروج</string>
+    <string name="btn_start_trip">Start</string>
+    <string name="canceled">الملغية</string>
+    <string name="canceled_trips">الرحلات الملغية</string>
+    <string name="change_email">غير البريد الاليكتروني</string>
+    <string name="change_password">غير الرقم السري</string>
+    <string name="choose">اختر صورة</string>
+    <string name="close_notes">اضَف</string>
+    <string gender="unknown" name="com_facebook_device_auth_instructions">تفضل بزيارة &lt;b>facebook.com/device&lt;/b> وإدخال الرمز الموضح أعلاه.</string>
+    <string gender="unknown" name="com_facebook_image_download_unknown_error">حدث خطأ غير متوقع أثناء تنزيل صورة.</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_message">يتطلب تسجيل دخول WebView الحصول إلى إذن INTERNET</string>
+    <string gender="unknown" name="com_facebook_internet_permission_error_title">خطأ AndroidManifest</string>
+    <string gender="unknown" name="com_facebook_like_button_liked">أعجبك</string>
+    <string gender="unknown" name="com_facebook_like_button_not_liked">أعجبني</string>
+    <string gender="unknown" name="com_facebook_loading">جارٍ التحميل…</string>
+    <string gender="unknown" name="com_facebook_loginview_cancel_action">إلغاء</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button">تسجيل الدخول</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_continue">متابعة بحساب فيسبوك</string>
+    <string gender="unknown" name="com_facebook_loginview_log_in_button_long">تسجيل الدخول بحساب فيسبوك</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_action">تسجيل الخروج</string>
+    <string gender="unknown" name="com_facebook_loginview_log_out_button">تسجيل الخروج</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_as">تم تسجيل الدخول باسم: %1$s</string>
+    <string gender="unknown" name="com_facebook_loginview_logged_in_using_facebook">تم تسجيل الدخول باستخدام حساب فيسبوك</string>
+    <string gender="unknown" name="com_facebook_send_button_text">إرسال</string>
+    <string gender="unknown" name="com_facebook_share_button_text">مشاركة</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions">لربط حسابك، افتح تطبيق فيسبوك على جهازك المحمول وراجع الإشعارات.</string>
+    <string gender="unknown" name="com_facebook_smart_device_instructions_or">- أو -</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_cancel">لست أنت؟</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_continue_as">متابعة باسم %1$s</string>
+    <string gender="unknown" name="com_facebook_smart_login_confirmation_title">تأكيد تسجيل الدخول</string>
+    <string gender="unknown" name="com_facebook_tooltip_default">أنت المتحكم في الأمر - يمكنك اختيار المعلومات التي تود مشاركتها مع التطبيقات.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"تمكين"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"‏لن يعمل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تمكين خدمات Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"‏تمكين خدمات Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"تثبيت"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي لا تتوفر على جهازك."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"‏الحصول على خدمات Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"‏مدى توفّر خدمات Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"‏خطأ في خدمات Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"‏لدى <ns1:g id="APP_NAME">%1$s</ns1:g> مشكلة في خدمات Google Play. يُرجى إعادة المحاولة."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play التي لا يوفرها جهازك."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"تحديث"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تحديث خدمات Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"‏تحديث خدمات Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي يتم تحديثها حاليًا."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"فتح على الهاتف"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"تسجل الدخول"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"‏تسجيل الدخول عبر Google"</string>
+    <string name="daily">يومي </string>
+    <string name="date">اختر تاريخ الرحلة</string>
+    <string name="date2">التاريخ</string>
+    <string name="datetext">ادخل تاريخ الرحلة </string>
+    <string name="default_home">هذه الصفحة لعرض رحلاتك القادمة</string>
+    <string name="delete_trip">امسح</string>
+    <string name="done">المكتملة</string>
+    <string name="donothaveaccount">ليس لديك حساب؟</string>
+    <string name="edit">عدّل </string>
+    <string name="editTrip">عدل الرحلة</string>
+    <string name="edit_trip">عدل</string>
+    <string name="email">البريد الاليكتروني</string>
+    <string name="end">نقطة النهاية</string>
+    <string name="facebook_app_id">162304051233635</string>
+    <string name="fb_login_protocol_scheme">fb162304051233635</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"متنوعة"</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="from">من </string>
+    <string name="go">Navigate To Trip</string>
+    <string name="hello_blank_fragment">upcoming trips fragment</string>
+    <string name="hint_email">البريد الاليكتروني</string>
+    <string name="hint_name">الاسم بالكامل</string>
+    <string name="hint_new_email">New Email</string>
+    <string name="hint_password">الرقم السري</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="loadfirebase">LoadFireBase</string>
+    <string name="loadlocal">LoadLocal</string>
+    <string name="loginme">ادخلني</string>
+    <string name="mainTrips">الرحلات الرئيسية</string>
+    <string name="minimum_password">الرقم السري قصير جدا,ادخل علي الاقل 6 ارقام</string>
+    <string name="monthly">شهري </string>
+    <string name="name">الاسم</string>
+    <string name="new_pass">New Password</string>
+    <string name="noteText">اضف ملاحظات للرحلة </string>
+    <string name="ok">Ok</string>
+    <string name="phone">رقم الهاتف</string>
+    <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"مسح البحث"</string>
+    <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"البحث"</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="remove_user">Remove user</string>
+    <string name="repeat"> تكرار الرحلة؟</string>
+    <string name="savedata"> حفظ</string>
+    <string name="savelocal">SaveLocal</string>
+    <string msgid="146198913615257606" name="search_menu_title">"البحث"</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="set_date">ادخل التاريخ..</string>
+    <string name="set_return_date">اختر تاريخ العودة</string>
+    <string name="set_return_time">اختر وقت العودة</string>
+    <string name="set_time">ادخل وقت الرحلة....</string>
+    <string name="signout">الخروج</string>
+    <string name="signup">التسجيل</string>
+    <string name="start">نقطة البداية</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="time">ادخل الوقت</string>
+    <string name="timetext">ادخل وقت الرحلة </string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="to">الي </string>
+    <string name="tolist">ادف ملاحظة</string>
+    <string name="tripDate"> تاريخ الرحلة</string>
+    <string name="tripTime"> وقت الرحلة</string>
+    <string name="tripType">نوع الرحلة </string>
+    <string name="tripTypeText">اختر نوع الرحلة</string>
+    <string name="trip_date">dالتاريخ</string>
+    <string name="trip_details_title">تفاصيل الرحلة</string>
+    <string name="trip_from">من</string>
+    <string name="trip_name">ادخل اسم الرحلة..</string>
+    <string name="trip_state">الحالة</string>
+    <string name="trip_time">الوقت</string>
+    <string name="trip_to">الي</string>
+    <string name="trips_history_fragment">History Fragment</string>
+    <string name="ttipname">اسم الرحلة</string>
+    <string name="up_comming">الرحلات القادمة</string>
+    <string name="upcoming">القادمة</string>
+    <string name="weekly">اسبوعي </string>
+</resources>
