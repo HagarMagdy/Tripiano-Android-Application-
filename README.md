@@ -11,7 +11,7 @@ authors:
 
 project Info:
 
-tripiano is a mobile app to manage your dailly trips
+tripiano is a Android Mobile App to manage your dailly trips
 minSDKVirsion 17
 
 targetSDKVirsion 26
